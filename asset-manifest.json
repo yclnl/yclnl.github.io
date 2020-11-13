@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yclnl.github.io/static/css/main.9b9f098c.chunk.css",
+    "main.js": "/yclnl.github.io/static/js/main.38796a76.chunk.js",
+    "main.js.map": "/yclnl.github.io/static/js/main.38796a76.chunk.js.map",
+    "runtime-main.js": "/yclnl.github.io/static/js/runtime-main.7fe8d276.js",
+    "runtime-main.js.map": "/yclnl.github.io/static/js/runtime-main.7fe8d276.js.map",
+    "static/css/2.b2f03837.chunk.css": "/yclnl.github.io/static/css/2.b2f03837.chunk.css",
+    "static/js/2.8853751d.chunk.js": "/yclnl.github.io/static/js/2.8853751d.chunk.js",
+    "static/js/2.8853751d.chunk.js.map": "/yclnl.github.io/static/js/2.8853751d.chunk.js.map",
+    "index.html": "/yclnl.github.io/index.html",
+    "precache-manifest.42a637d26396da301d4802af47c8f3a4.js": "/yclnl.github.io/precache-manifest.42a637d26396da301d4802af47c8f3a4.js",
+    "service-worker.js": "/yclnl.github.io/service-worker.js",
+    "static/css/2.b2f03837.chunk.css.map": "/yclnl.github.io/static/css/2.b2f03837.chunk.css.map",
+    "static/css/main.9b9f098c.chunk.css.map": "/yclnl.github.io/static/css/main.9b9f098c.chunk.css.map",
+    "static/js/2.8853751d.chunk.js.LICENSE.txt": "/yclnl.github.io/static/js/2.8853751d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fe8d276.js",
+    "static/css/2.b2f03837.chunk.css",
+    "static/js/2.8853751d.chunk.js",
+    "static/css/main.9b9f098c.chunk.css",
+    "static/js/main.38796a76.chunk.js"
+  ]
+}
